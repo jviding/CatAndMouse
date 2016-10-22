@@ -1,7 +1,7 @@
-Special notes:
-Written using Python 2.7
-Ukko public key required at
-/home/<username>/.ssh/id_rsa.pub
+Special notes:<br>
+Written using Python 2.7<br>
+Ukko public key required at<br>
+/home/<username>/.ssh/id_rsa.pub<br>
 
 # A Tale of Cats and a Mouse
 
